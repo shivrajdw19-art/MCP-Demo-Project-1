@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "thrivestack_mcp": {
+      "enabled": true
+    }
+  }
+}
